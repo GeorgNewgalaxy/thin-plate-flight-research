@@ -1,6 +1,0 @@
-A:[1 for i in range(0, n_x)]
-X:[0 for i in range(0, n_x)]
-B:[1 for i in range(0, n_x)]
-Y:[0 for i in range(0, n_x)]
-D:[0 for i in range(0, n_x)]
-E:[0 for i in range(0, n_x)]
