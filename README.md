@@ -1,1 +1,1 @@
-This GitHub repository contains my experiments and research I did on the problem of simulating how a thin, long, flexible plate will fly when dropped. The folder simple_paper_flight contains my current simulation of the falling plate.
+This GitHub repository (if properly called, Flight Dynamics and Autorotation of a Slender Flexible Plate) contains my experiments and research I did on the problem of simulating how a thin, long, flexible plate will fly when dropped. The folder simple_paper_flight contains my current simulation of the falling plate.
